@@ -29,6 +29,27 @@ Enquanto que as configurações no Backend são:
 
 #### Janela de saída
 
-Por fim, a janela de saída tem um botão para gerar os conteúdos e mostrar a saída (as respostas do Gemini) em um widget de texto.
+A janela de saída tem um botão para gerar os conteúdos e mostrar a saída (as respostas do Gemini) em um widget de texto.
 
 ![página de output](https://github.com/Iranildot/QuestionIA/assets/68133032/f56e13d7-7a82-4a4b-b504-5fd4af9018bd)
+
+
+### Temas do app
+
+O aplicativo tem temas imbutidos para poder estilizar o aplicativo ao seu gosto. Confiram os modelos a seguir!
+
+#### Darkly (default)
+![estilo darkly](https://github.com/Iranildot/QuestionIA/assets/68133032/960bb8d4-e607-46bc-a234-20348057774d)
+
+#### Superhero
+![estilo superhero](https://github.com/Iranildot/QuestionIA/assets/68133032/333989c9-524f-4067-b90a-4c853f66bd06)
+
+#### Solar
+![estilo solar](https://github.com/Iranildot/QuestionIA/assets/68133032/b5955c88-64b4-49b1-82d0-18ef22ad6ab1)
+
+#### Cyborg
+![estilo cyborg](https://github.com/Iranildot/QuestionIA/assets/68133032/8ce4024f-31ab-4bec-b78e-d626e5e3bc13)
+
+#### Vapor
+![estilo vapor](https://github.com/Iranildot/QuestionIA/assets/68133032/2fc4d786-01fb-461c-8b54-a0d5826ab99b)
+
