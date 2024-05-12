@@ -86,7 +86,7 @@ Para o teste 1 foram inseridas as seguintes configurações
 Para o teste 2 foram inseridas as seguintes configurações
 - **ANO:** 3º do ensino médio
 - **MATÉRIA:** Espanol
-- **ASSUNTO:** Conjugação correta dos verbos
+- **ASSUNTO:** Completar a conjugação correta dos verbos
 - **QUANTIDADE DE QUESTÕES:** 20
 
 #### Output
@@ -107,7 +107,7 @@ Para o teste 3 foram inseridas as seguintes configurações
 ### Teste 4
 
 #### Input
-Para o teste 2 foram inseridas as seguintes configurações
+Para o teste 4 foram inseridas as seguintes configurações
 - **ANO:** 3º do ensino médio
 - **MATÉRIA:** Matemática
 - **ASSUNTO:** Álgebra
@@ -116,13 +116,16 @@ Para o teste 2 foram inseridas as seguintes configurações
 #### Output
 ![matemática 3 ano ensino medio](https://github.com/Iranildot/QuestionIA/assets/68133032/67469b57-3eb8-4dba-9513-332530f6f410)
 
-### Teste 4
+### Teste 5
 
 #### Input
-Para o teste 2 foram inseridas as seguintes configurações
+Para o teste 5 foram inseridas as seguintes configurações
 - **ANO:** 3º do ensino médio
-- **MATÉRIA:** Matemática
-- **ASSUNTO:** Álgebra
+- **MATÉRIA:** Filosofia
+- **ASSUNTO:** Filosofia da ciência
 - **QUANTIDADE DE QUESTÕES:** 10
 
 #### Output
+![Questões sobre filosofia](https://github.com/Iranildot/QuestionIA/assets/68133032/1f07415a-32c8-47bd-8e2f-b97fcba85406)
+
+
