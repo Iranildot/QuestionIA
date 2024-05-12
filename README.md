@@ -1,6 +1,6 @@
 # QuestionIA
 ## Sumário
-- [Explicação do programa](#explicação do programa)
+- [Explicação do programa](https://github.com/Iranildot/QuestionIA/blob/master/README.md#explica%C3%A7%C3%A3o-do-programa)
 - [Conhecendo o programa](https://github.com/Iranildot/QuestionIA/blob/master/README.md#conhecendo-o-programa)
   - [Interface](https://github.com/Iranildot/QuestionIA/blob/master/README.md#interface)
      - [Configurações de perguntas](https://github.com/Iranildot/QuestionIA/blob/master/README.md#interface)
@@ -16,12 +16,12 @@
        - [Meera (default)](https://github.com/Iranildot/QuestionIA/blob/master/README.md#meera-default)
        - [Purisa](https://github.com/Iranildot/QuestionIA/blob/master/README.md#purisa)
        - [Chilanka](https://github.com/Iranildot/QuestionIA/blob/master/README.md#chilanka)
-  - [Testes do programa]()
-    - [Teste 1]()
-    - [Teste 2]()
-    - [Teste 3]()
-    - [Teste 4]()
-    - [Teste 5]()
+  - [Testes do programa](https://github.com/Iranildot/QuestionIA/blob/master/README.md#testes-do-programa)
+    - [Teste 1](https://github.com/Iranildot/QuestionIA/blob/master/README.md#teste-1)
+    - [Teste 2](https://github.com/Iranildot/QuestionIA/blob/master/README.md#teste-2)
+    - [Teste 3](https://github.com/Iranildot/QuestionIA/blob/master/README.md#teste-3)
+    - [Teste 4](https://github.com/Iranildot/QuestionIA/blob/master/README.md#teste-4)
+    - [Teste 5](https://github.com/Iranildot/QuestionIA/blob/master/README.md#teste-5)
   - [Mostrando na prática (vídeo)](https://github.com/Iranildot/QuestionIA/blob/master/README.md#mostrando-na-pr%C3%A1tica-v%C3%ADdeo)
 
 ## Explicação do programa
