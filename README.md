@@ -6,16 +6,16 @@
      - [Configurações de perguntas](https://github.com/Iranildot/QuestionIA/blob/master/README.md#interface)
      - [Configurações do Gemini](https://github.com/Iranildot/QuestionIA/blob/master/README.md#configura%C3%A7%C3%B5es-do-gemini)
      - [Janela de saída](https://github.com/Iranildot/QuestionIA/blob/master/README.md#janela-de-sa%C3%ADda)
-     - [Temas do app](https://github.com/Iranildot/QuestionIA/blob/master/README.md#temas-do-app)
-       - [Darkly (default)](https://github.com/Iranildot/QuestionIA/blob/master/README.md#darkly-default)
-       - [Superhero](https://github.com/Iranildot/QuestionIA/blob/master/README.md#superhero)
-       - [Solar](https://github.com/Iranildot/QuestionIA/blob/master/README.md#solar)
-       - [Cyborg](https://github.com/Iranildot/QuestionIA/blob/master/README.md#cyborg)
-       - [Vapor](https://github.com/Iranildot/QuestionIA/blob/master/README.md#vapor)
-     - [Fontes do app](https://github.com/Iranildot/QuestionIA/blob/master/README.md#fontes-do-app)
-       - [Meera (default)](https://github.com/Iranildot/QuestionIA/blob/master/README.md#meera-default)
-       - [Purisa](https://github.com/Iranildot/QuestionIA/blob/master/README.md#purisa)
-       - [Chilanka](https://github.com/Iranildot/QuestionIA/blob/master/README.md#chilanka)
+  - [Temas do app](https://github.com/Iranildot/QuestionIA/blob/master/README.md#temas-do-app)
+    - [Darkly (default)](https://github.com/Iranildot/QuestionIA/blob/master/README.md#darkly-default)
+    - [Superhero](https://github.com/Iranildot/QuestionIA/blob/master/README.md#superhero)
+    - [Solar](https://github.com/Iranildot/QuestionIA/blob/master/README.md#solar)
+    - [Cyborg](https://github.com/Iranildot/QuestionIA/blob/master/README.md#cyborg)
+    - [Vapor](https://github.com/Iranildot/QuestionIA/blob/master/README.md#vapor)
+  - [Fontes do app](https://github.com/Iranildot/QuestionIA/blob/master/README.md#fontes-do-app)
+    - [Meera (default)](https://github.com/Iranildot/QuestionIA/blob/master/README.md#meera-default)
+    - [Purisa](https://github.com/Iranildot/QuestionIA/blob/master/README.md#purisa)
+    - [Chilanka](https://github.com/Iranildot/QuestionIA/blob/master/README.md#chilanka)
   - [Testes do programa](https://github.com/Iranildot/QuestionIA/blob/master/README.md#testes-do-programa)
     - [Teste 1](https://github.com/Iranildot/QuestionIA/blob/master/README.md#teste-1)
     - [Teste 2](https://github.com/Iranildot/QuestionIA/blob/master/README.md#teste-2)
@@ -59,36 +59,36 @@ A janela de saída tem um botão para gerar os conteúdos e mostrar a saída (as
 ![página de output](https://github.com/Iranildot/QuestionIA/assets/68133032/f56e13d7-7a82-4a4b-b504-5fd4af9018bd)
 
 
-### Temas do app
+## Temas do app
 
 O aplicativo tem temas imbutidos para poder estilizar o aplicativo ao seu gosto. Confiram os modelos a seguir!
 
-#### Darkly (default)
+### Darkly (default)
 ![estilo darkly](https://github.com/Iranildot/QuestionIA/assets/68133032/960bb8d4-e607-46bc-a234-20348057774d)
 
-#### Superhero
+### Superhero
 ![estilo superhero](https://github.com/Iranildot/QuestionIA/assets/68133032/333989c9-524f-4067-b90a-4c853f66bd06)
 
-#### Solar
+### Solar
 ![estilo solar](https://github.com/Iranildot/QuestionIA/assets/68133032/b5955c88-64b4-49b1-82d0-18ef22ad6ab1)
 
-#### Cyborg
+### Cyborg
 ![estilo cyborg](https://github.com/Iranildot/QuestionIA/assets/68133032/8ce4024f-31ab-4bec-b78e-d626e5e3bc13)
 
-#### Vapor
+### Vapor
 ![estilo vapor](https://github.com/Iranildot/QuestionIA/assets/68133032/2fc4d786-01fb-461c-8b54-a0d5826ab99b)
 
 
-### Fontes do app
+## Fontes do app
 O aplicativo tem fontes disponibilizadas pela biblioteca Tkinter para poder estilizar o aplicativo ao seu gosto. Confiram os modelos a seguir!
 
-#### Meera (default)
+### Meera (default)
 ![Questões sobre filosofia](https://github.com/Iranildot/QuestionIA/assets/68133032/98e77d00-1e34-42f1-8a18-0e5f1b832529)
 
-#### Purisa
+### Purisa
 ![puriza font](https://github.com/Iranildot/QuestionIA/assets/68133032/3b9528e0-4de5-4ee6-b5b6-9919f8cb08de)
 
-#### Chilanka
+### Chilanka
 ![chilanka font](https://github.com/Iranildot/QuestionIA/assets/68133032/d2bf432f-f724-499e-bde0-5649bb008735)
 
 ## Testes do programa
