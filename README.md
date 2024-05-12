@@ -1,28 +1,29 @@
 # QuestionIA
 ## Sumário
-- Explicação do programa
-- Conhecendo o programa
-  - Interface
-     - Configurações de perguntas
-     - Configurações do Gemini
-     - Janela de saída
-     - Temas do app
-       - Darkly (default)
-       - Superhero
-       - Solar
-       - Cyborg
-       - Vapor
-     - Fontes do app
-       - Meera (default)
-       - Purisa
-       - Chilanka
-  - Testes do programa
-    - Teste 1
-    - Teste 2
-    - Teste 3
-    - Teste 4
-    - Teste 5
-  - Mostrando na prática (vídeo)
+- [Explicação do programa](https://github.com/Iranildot/QuestionIA/edit/master/README.md#explica%C3%A7%C3%A3o-do-programa)
+- [Conhecendo o programa](https://github.com/Iranildot/QuestionIA/edit/master/README.md#conhecendo-o-programa)
+  - [Interface](https://github.com/Iranildot/QuestionIA/edit/master/README.md#interface)
+     - [Configurações de perguntas](https://github.com/Iranildot/QuestionIA/edit/master/README.md#interface)
+     - [Configurações do Gemini](https://github.com/Iranildot/QuestionIA/edit/master/README.md#configura%C3%A7%C3%B5es-do-gemini)
+     - [Janela de saída](https://github.com/Iranildot/QuestionIA/edit/master/README.md#janela-de-sa%C3%ADda)
+     - [Temas do app](https://github.com/Iranildot/QuestionIA/edit/master/README.md#temas-do-app)
+       - [Darkly (default)](https://github.com/Iranildot/QuestionIA/edit/master/README.md#darkly-default)
+       - [Superhero](https://github.com/Iranildot/QuestionIA/edit/master/README.md#superhero)
+       - [Solar](https://github.com/Iranildot/QuestionIA/edit/master/README.md#solar)
+       - [Cyborg](https://github.com/Iranildot/QuestionIA/edit/master/README.md#cyborg)
+       - [Vapor](https://github.com/Iranildot/QuestionIA/edit/master/README.md#vapor)
+     - [Fontes do app](https://github.com/Iranildot/QuestionIA/edit/master/README.md#fontes-do-app)
+       - [Meera (default)](https://github.com/Iranildot/QuestionIA/edit/master/README.md#meera-default)
+       - [Purisa](https://github.com/Iranildot/QuestionIA/edit/master/README.md#purisa)
+       - [Chilanka](https://github.com/Iranildot/QuestionIA/edit/master/README.md#chilanka)
+  - [Testes do programa]()
+    - [Teste 1]()
+    - [Teste 2]()
+    - [Teste 3]()
+    - [Teste 4]()
+    - [Teste 5]()
+  - [Mostrando na prática (vídeo)]()
+
 ## Explicação do programa
 
 QuestionIA é programa GUI contruido em Python que usa a biblioteca Tkinter com a biblioteca Ttkbootstrap (Fornece interface moderna) e também faz uso da API do Gemini. Esse programa serve para fornecer modelos de questões para as mais diversas disciplinas (Matemática, Português, Ciências, ...) a depender do ano escolar informado (1º, 2º, 3º, ..., 9º ano do ensino fundamental, 1º, 2º e 3º ano do ensino médio). Com o objetivo de auxiliar os professores na hora da criação das listas de exercícios.
