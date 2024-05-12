@@ -1,4 +1,28 @@
 # QuestionIA
+## Sumário
+- Explicação do programa
+- Conhecendo o programa
+  - Interface
+     - Configurações de perguntas
+     - Configurações do Gemini
+     - Janela de saída
+     - Temas do app
+       - Darkly (default)
+       - Superhero
+       - Solar
+       - Cyborg
+       - Vapor
+     - Fontes do app
+       - Meera (default)
+       - Purisa
+       - Chilanka
+  - Testes do programa
+    - Teste 1
+    - Teste 2
+    - Teste 3
+    - Teste 4
+    - Teste 5
+  - Mostrando na prática (vídeo)
 ## Explicação do programa
 
 QuestionIA é programa GUI contruido em Python que usa a biblioteca Tkinter com a biblioteca Ttkbootstrap (Fornece interface moderna) e também faz uso da API do Gemini. Esse programa serve para fornecer modelos de questões para as mais diversas disciplinas (Matemática, Português, Ciências, ...) a depender do ano escolar informado (1º, 2º, 3º, ..., 9º ano do ensino fundamental, 1º, 2º e 3º ano do ensino médio). Com o objetivo de auxiliar os professores na hora da criação das listas de exercícios.
@@ -130,3 +154,4 @@ Para o teste 5 foram inseridas as seguintes configurações
 
 ## Mostrando na prática (vídeo)
 https://github.com/Iranildot/QuestionIA/assets/68133032/e4a212ca-32e0-4e55-a8ed-5397be8319e7
+**OBS:** Não se preocupem, a chave foi deletada ao final do vídeo!
