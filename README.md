@@ -1,6 +1,6 @@
 # QuestionIA
 ## Sumário
-- [Explicação do programa](https://github.com/Iranildot/QuestionIA/edit/master/README.md#explica%C3%A7%C3%A3o-do-programa)
+- [Explicação do programa](#explicação do programa)
 - [Conhecendo o programa](https://github.com/Iranildot/QuestionIA/edit/master/README.md#conhecendo-o-programa)
   - [Interface](https://github.com/Iranildot/QuestionIA/edit/master/README.md#interface)
      - [Configurações de perguntas](https://github.com/Iranildot/QuestionIA/edit/master/README.md#interface)
