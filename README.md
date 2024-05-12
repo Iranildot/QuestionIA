@@ -53,3 +53,76 @@ O aplicativo tem temas imbutidos para poder estilizar o aplicativo ao seu gosto.
 #### Vapor
 ![estilo vapor](https://github.com/Iranildot/QuestionIA/assets/68133032/2fc4d786-01fb-461c-8b54-a0d5826ab99b)
 
+
+### Fontes do app
+O aplicativo tem fontes disponibilizadas pela biblioteca Tkinter para poder estilizar o aplicativo ao seu gosto. Confiram os modelos a seguir!
+
+#### Meera (default)
+![Questões sobre filosofia](https://github.com/Iranildot/QuestionIA/assets/68133032/98e77d00-1e34-42f1-8a18-0e5f1b832529)
+
+#### Purisa
+![puriza font](https://github.com/Iranildot/QuestionIA/assets/68133032/3b9528e0-4de5-4ee6-b5b6-9919f8cb08de)
+
+#### Chilanka
+![chilanka font](https://github.com/Iranildot/QuestionIA/assets/68133032/d2bf432f-f724-499e-bde0-5649bb008735)
+
+## Testes do programa
+
+### Teste 1
+
+#### Input
+Para o teste 1 foram inseridas as seguintes configurações
+- **ANO:** 6º ano do ensino fundamental
+- **MATÉRIA:** Português
+- **ASSUNTO:** Gramática
+- **QUANTIDADE DE QUESTÕES:** 10
+
+#### Output
+![6 ano portugûes gramática](https://github.com/Iranildot/QuestionIA/assets/68133032/295e0664-2c75-4982-ab70-c9042859c295)
+
+### Teste 2
+
+#### Input
+Para o teste 2 foram inseridas as seguintes configurações
+- **ANO:** 3º do ensino médio
+- **MATÉRIA:** Espanol
+- **ASSUNTO:** Conjugação correta dos verbos
+- **QUANTIDADE DE QUESTÕES:** 20
+
+#### Output
+![Espanol do 3 ano ensino médio](https://github.com/Iranildot/QuestionIA/assets/68133032/f687f365-4129-438a-86ab-7244a6de3a8e)
+
+### Teste 3
+
+#### Input
+Para o teste 3 foram inseridas as seguintes configurações
+- **ANO:** 1º do ensino médio
+- **MATÉRIA:** Inglês
+- **ASSUNTO:** Gramática
+- **QUANTIDADE DE QUESTÕES:** 10
+
+#### Output
+![inglês gramática 1 ano ensino medio](https://github.com/Iranildot/QuestionIA/assets/68133032/59397f96-87a8-4eee-b93f-614bc92782ec)
+
+### Teste 4
+
+#### Input
+Para o teste 2 foram inseridas as seguintes configurações
+- **ANO:** 3º do ensino médio
+- **MATÉRIA:** Matemática
+- **ASSUNTO:** Álgebra
+- **QUANTIDADE DE QUESTÕES:** 10
+
+#### Output
+![matemática 3 ano ensino medio](https://github.com/Iranildot/QuestionIA/assets/68133032/67469b57-3eb8-4dba-9513-332530f6f410)
+
+### Teste 4
+
+#### Input
+Para o teste 2 foram inseridas as seguintes configurações
+- **ANO:** 3º do ensino médio
+- **MATÉRIA:** Matemática
+- **ASSUNTO:** Álgebra
+- **QUANTIDADE DE QUESTÕES:** 10
+
+#### Output
