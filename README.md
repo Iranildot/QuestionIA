@@ -128,4 +128,5 @@ Para o teste 5 foram inseridas as seguintes configurações
 #### Output
 ![Questões sobre filosofia](https://github.com/Iranildot/QuestionIA/assets/68133032/1f07415a-32c8-47bd-8e2f-b97fcba85406)
 
-
+## Mostrando na prática (vídeo)
+https://github.com/Iranildot/QuestionIA/assets/68133032/e4a212ca-32e0-4e55-a8ed-5397be8319e7
