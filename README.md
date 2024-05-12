@@ -22,7 +22,7 @@
     - [Teste 3]()
     - [Teste 4]()
     - [Teste 5]()
-  - [Mostrando na prática (vídeo)]()
+  - [Mostrando na prática (vídeo)](https://github.com/Iranildot/QuestionIA/blob/master/README.md#mostrando-na-pr%C3%A1tica-v%C3%ADdeo)
 
 ## Explicação do programa
 
