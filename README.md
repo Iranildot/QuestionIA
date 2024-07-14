@@ -120,10 +120,10 @@ For test 2, the following configurations were entered:
 
 #### Input
 For test 3, the following configurations were entered:
-- **YEAR**: 2nd year of high school
-- **SUBJECT**: Chemistry
-- **TOPIC**: Periodic Table
-- **NUMBER OF QUESTIONS**: 8
+- **YEAR**: 1nd year of high school
+- **SUBJECT**: English
+- **TOPIC**: Grammar
+- **NUMBER OF QUESTIONS**: 10
 
 #### Output
 ![inglês gramática 1 ano ensino medio](https://github.com/Iranildot/QuestionIA/assets/68133032/59397f96-87a8-4eee-b93f-614bc92782ec)
