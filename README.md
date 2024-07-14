@@ -109,9 +109,9 @@ For test 1, the following configurations were entered:
 #### Input
 For test 2, the following configurations were entered:
 - **YEAR**: 3rd year of high school
-- **SUBJECT**: Physics
-- **TOPIC**: Newton's Laws
-- **NUMBER OF QUESTIONS**: 5
+- **SUBJECT**: Spanish
+- **TOPIC**: Conjugation
+- **NUMBER OF QUESTIONS**: 20
 
 #### Output
 ![Espanol do 3 ano ensino médio](https://github.com/Iranildot/QuestionIA/assets/68133032/f687f365-4129-438a-86ab-7244a6de3a8e)
