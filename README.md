@@ -96,9 +96,9 @@ The application offers fonts provided by the Tkinter library to customize the ap
 
 #### Input
 For test 1, the following configurations were entered:
-- **YEAR**: 6th grade of elementary school
+- **YEAR**: 6th year of elementary school
 - **SUBJECT**: Portuguese
-- **TOPIC**: Grammar
+- **SUBJECT**: Grammar
 - **NUMBER OF QUESTIONS**: 10
 
 #### Output
@@ -108,10 +108,10 @@ For test 1, the following configurations were entered:
 
 #### Input
 For test 2, the following configurations were entered:
-- **YEAR**: 3rd year of high school
-- **SUBJECT**: Spanish
-- **TOPIC**: Conjugation
-- **NUMBER OF QUESTIONS**: 20
+- **YEAR:** 3rd of high school
+- **SUBJECT:** Spanish
+- **SUBJECT:** Complete the correct conjugation of verbs
+- **NUMBER OF QUESTIONS:** 20
 
 #### Output
 ![Espanol do 3 ano ensino médio](https://github.com/Iranildot/QuestionIA/assets/68133032/f687f365-4129-438a-86ab-7244a6de3a8e)
@@ -120,10 +120,10 @@ For test 2, the following configurations were entered:
 
 #### Input
 For test 3, the following configurations were entered:
-- **YEAR**: 1nd year of high school
-- **SUBJECT**: English
-- **TOPIC**: Grammar
-- **NUMBER OF QUESTIONS**: 10
+- **YEAR:** 1st of high school
+- **SUBJECT:** English
+- **SUBJECT:** Grammar
+- **NUMBER OF QUESTIONS:** 10
 
 #### Output
 ![inglês gramática 1 ano ensino medio](https://github.com/Iranildot/QuestionIA/assets/68133032/59397f96-87a8-4eee-b93f-614bc92782ec)
@@ -132,10 +132,10 @@ For test 3, the following configurations were entered:
 
 #### Input
 For test 4, the following configurations were entered:
-- **YEAR**: 3th year of high school
-- **SUBJECT**: Mathematics
-- **TOPIC**: Algebra
-- **NUMBER OF QUESTIONS**: 12
+- **YEAR:** 3rd of high school
+- **SUBJECT:** Mathematics
+- **SUBJECT:** Algebra
+- **NUMBER OF QUESTIONS:** 10
 
 #### Output
 ![matemática 3 ano ensino medio](https://github.com/Iranildot/QuestionIA/assets/68133032/67469b57-3eb8-4dba-9513-332530f6f410)
@@ -144,10 +144,10 @@ For test 4, the following configurations were entered:
 
 #### Input
 For test 5, the following configurations were entered:
-- **YEAR**: 9th grade of elementary school
-- **SUBJECT**: History
-- **TOPIC**: French Revolution
-- **NUMBER OF QUESTIONS**: 15
+- **YEAR:** 3rd of high school
+- **SUBJECT:** Philosophy
+- **SUBJECT:** Philosophy of science
+- **NUMBER OF QUESTIONS:** 10
 
 #### Output
 ![Questões sobre filosofia](https://github.com/Iranildot/QuestionIA/assets/68133032/1f07415a-32c8-47bd-8e2f-b97fcba85406)
