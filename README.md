@@ -132,9 +132,9 @@ For test 3, the following configurations were entered:
 
 #### Input
 For test 4, the following configurations were entered:
-- **YEAR**: 5th grade of elementary school
+- **YEAR**: 3th year of high school
 - **SUBJECT**: Mathematics
-- **TOPIC**: Geometry
+- **TOPIC**: Algebra
 - **NUMBER OF QUESTIONS**: 12
 
 #### Output
